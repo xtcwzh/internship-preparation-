@@ -9,7 +9,7 @@ from langchain_core.prompts import (
     SystemMessagePromptTemplate,
 )
 
-os.environ["DEEPSEEK_API_KEY"] = "sk-fd5a80a6c5734abb93143d6a11a9ba01"
+os.environ["DEEPSEEK_API_KEY"] = ""
 
 model = init_chat_model("deepseek:deepseek-chat", temperature=0.7)
 
