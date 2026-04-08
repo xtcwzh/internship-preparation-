@@ -1,0 +1,11 @@
+2026-04-07 21:52:57,132 - agent - INFO - logger_handler.py:60 - 信息日志
+2026-04-07 21:52:57,132 - agent - ERROR - logger_handler.py:61 - 错误日志
+2026-04-07 21:52:57,132 - agent - WARNING - logger_handler.py:62 - 警告日志
+2026-04-07 21:52:57,132 - agent - DEBUG - logger_handler.py:63 - 调试日志
+2026-04-07 21:53:44,500 - agent - INFO - logger_handler.py:60 - 信息日志
+2026-04-07 21:53:44,500 - agent - ERROR - logger_handler.py:61 - 错误日志
+2026-04-07 21:53:44,500 - agent - WARNING - logger_handler.py:62 - 警告日志
+2026-04-07 21:53:44,500 - agent - DEBUG - logger_handler.py:63 - 调试日志
+2026-04-07 22:23:02,365 - agent - ERROR - prompt_load.py:47 - [load_report_prompts]解析报告生成提示词出错，[Errno 2] No such file or directory: '/Users/wangzihao/Documents/实习资料/project preparation for internship/RAG_Agent/RAG_Agent_project/prompts/report_prompt.txt'
+2026-04-07 22:23:46,992 - agent - ERROR - prompt_load.py:19 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: '/Users/wangzihao/Documents/实习资料/project preparation for internship/RAG_Agent/RAG_Agent_project/prompts/main_prompt.txt'
+2026-04-07 22:24:25,252 - agent - ERROR - prompt_load.py:19 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: '/Users/wangzihao/Documents/实习资料/project preparation for internship/RAG_Agent/RAG_Agent_project/prompts/main_prompt.txt'
